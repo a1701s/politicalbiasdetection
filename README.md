@@ -24,6 +24,6 @@ Output will look something like this:
 https://www.bendbulletin.com/nation/trump-pleads-not-guilty-to-34-charges-admonished-by-judge/article_941248f4-c3c9-52c0-a8e1-707d30ee6569.html
 ('Trump pleads not guilty to 34 charges; admonished by judge | Nation | bendbulletin.com', 'Democrat', 'Donald Trump is the only ex-president ever to be charged with a crime. He is accused of falsifying business records in a hush money investigation. The indictment centers on allegations that Trump falsified internal business records at his private company. The arraignment in a Manhattan courtroom was a stunning — and humbling — spectacle for the former president, putting him face-to-face with prosecutors who bluntly accused him of criminal conduct and setting the stage for a possible criminal trial in the city where he became a celebrity.', 'Democrat')
 
-With the format ('<Title>', '<Political Leaning>', '<Summarized Article>', '<Political Leaning>').
+With the format (<Title>, <Political Leaning>, <Summarized Article>, <Political Leaning>).
 
 The end goal of this project was to allow me to easily create datasets that I can use for further projects.
